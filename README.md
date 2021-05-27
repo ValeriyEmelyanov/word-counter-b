@@ -10,7 +10,7 @@
 * Spring Boot console application
 * Java 11
 * Jsoup
-* PostgeSQL
+* PostgreSQL
 * Spring Data JPA
 * Maven
 
